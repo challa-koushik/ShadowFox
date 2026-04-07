@@ -57,10 +57,9 @@ This repository contains all the tasks and projects completed as part of my **We
 
 ---
 
-## 🔗 Connect with Me
-- LinkedIn: (Add your link here)
-- GitHub: (Your profile link)
-
+## my work
+- https://portfolio-ashy-kappa-35.vercel.app/
+- https://challa-koushik.github.io/Csk_fan_page/
 ---
 
 ⭐ Feel free to explore the projects and provide feedback!
